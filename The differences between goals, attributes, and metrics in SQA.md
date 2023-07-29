@@ -1,4 +1,4 @@
-# The differences between goals, attributes, and metrics in Software Quality Assurance (SQA):
+## The differences between goals, attributes, and metrics in Software Quality Assurance (SQA):
 
 | Aspect        | Goal                           | Attributes                       | Metrics                                          |
 |---------------|--------------------------------|----------------------------------|--------------------------------------------------|
