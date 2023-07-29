@@ -1,4 +1,4 @@
-# A simplified comparison between **verification and validation** in Software Quality Assurance:
+## A simplified comparison between **verification and validation** in Software Quality Assurance:
 
 | Aspect         | Verification                             | Validation                          |
 |----------------|----------------------------------------|------------------------------------|
