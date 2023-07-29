@@ -1,4 +1,4 @@
-# A simplified table highlighting the differences between prevention costs, appraisal costs, and failure costs:
+# The differences between prevention costs, appraisal costs, and failure costs:
 
 | Aspect             | Prevention Costs               | Appraisal Costs                 | Failure Costs                 |
 |--------------------|-------------------------------|--------------------------------|-------------------------------|
