@@ -1,6 +1,6 @@
 # A simplified comparison between **verification and validation** in Software Quality Assurance:
 
-| Aspect         | **Verification **                            | **Validation  **                        |
+| Aspect         | Verification                             | Validation                          |
 |----------------|----------------------------------------|------------------------------------|
 | **Focus**      | Interim work products                    | Final product                      |
 | **Timing**     | Throughout development process         | End of development process         |
